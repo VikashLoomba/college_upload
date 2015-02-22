@@ -51,6 +51,9 @@ gem 'activeadmin', github: 'gregbell/active_admin'
 gem 'validates_formatting_of'
 gem 'tzinfo-data'
 
+gem 'zurb-foundation'
+gem 'foundation_rails_helper'
+
 group :development do
   gem 'better_errors'
 end
